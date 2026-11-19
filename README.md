@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | 🎤 **IIT Delhi Presentation** (full presentation on the Central Library IIT Delhi channel) | [Watch on YouTube](https://www.youtube.com/live/OS07hUWVgqc?si=1dZrOgBnpEg3bDW5&t=21947) |
-| 🖥️ **Project Demo Video** | [Watch the demo](YOUR_DEMO_VIDEO_LINK) |
+| 🖥️ **Project Demo Video** | [Watch the demo](https://www.youtube.com/watch?v=iGH7pX2Recg) |
 | 📄 **Product Demonstration (PDF)** | [Product Demonstration PDF.pdf](Product%20Demonstration%20PDF.pdf) |
 | 📊 **Presentation slides (PPTX)** | [Search_Beyond_Text_Enhanced.pptx](Search_Beyond_Text_Enhanced.pptx) |
 

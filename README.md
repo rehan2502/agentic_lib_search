@@ -4,12 +4,15 @@
 
 🏆 **Winner, Best Ideathon Award and 1st Prize** at IIT Delhi's *"ETDs in the Age of AI"* event.
 
-## 🎥 Videos
+## 🎥 Videos and Documents
 
 | | |
 |---|---|
 | 🎤 **IIT Delhi Presentation** (full presentation on the Central Library IIT Delhi channel) | [Watch on YouTube](https://www.youtube.com/live/OS07hUWVgqc?si=1dZrOgBnpEg3bDW5&t=21947) |
 | 🖥️ **Project Demo Video** | [Watch the demo](YOUR_DEMO_VIDEO_LINK) |
+| 📄 **Product Demonstration (PDF)** | [Product Demonstration PDF.pdf](Product%20Demonstration%20PDF.pdf) |
+| 📊 **Presentation slides (PPTX)** | [Search_Beyond_Text_Enhanced.pptx](Search_Beyond_Text_Enhanced.pptx) |
+
 
 ---
 
